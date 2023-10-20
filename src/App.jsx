@@ -74,7 +74,6 @@ const App = () => {
         <TodoFilter ChangeFilter={ChangeFilter} />
       </main>
 
-      <footer className="text-center mt-8 dark:text-white">Ordenar Tareas</footer>
     </div>
   );
 };
